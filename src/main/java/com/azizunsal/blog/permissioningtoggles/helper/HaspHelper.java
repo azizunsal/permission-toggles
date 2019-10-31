@@ -13,8 +13,6 @@ import org.slf4j.LoggerFactory;
  */
 public class HaspHelper {
     private static final Logger logger = LoggerFactory.getLogger(HaspHelper.class);
-    private static final long CAMERA_FEATURE_ID = 91;
-    private static final long VIDEO_FEATURE_ID = 90;
     private static final String SCOPE1 = "<haspscope />\n";
     private static final String VIEW =
             "<haspformat root=\"my_custom_scope\">\n" +
@@ -42,12 +40,12 @@ public class HaspHelper {
                     "nGsQ5fLoATMyydbgDIjC/cnz1CAco376y3FVCRsv3SpGZzI0fK8Sb0PxDX5UT45jdQYlE" +
                     "sgNfv/+r73OsXzDSa8nAIqV23xRB7IIpeTi5IZeRnSJXewPkk3HUmMYuMELhqk0dx3imN" +
                     "JVaJviokaYwQwgR3qhkDd+yghwH2WboD2JlG+9IrNU72XeOZc7ohayyCWCWQi51udRDyB" +
-                    "7OiGlfaaCzY/Ru7Gxn6qA/wpv+3kK7uZ1bGpNq8lANrGfJau32Egfm3yp+eJ56RXa0DV6" +
+                    "7OiGlfaaCzY/gfm3yp+eJ56RXa0DV6j35ejQsYV6dJ+CIWK3/NX9r23Sar5OKZuqRBvxE" +
                     "yIUcnutKQ80Iupl8THhqycb8PA3xeivY4Xg2zXKgu2ov29MxRsPhG5N5Wt25Zb1vjUNMV" +
                     "YLNUlt+YodAiyq/T73au+ksi8E4A95vCY5KgPTggG76dbR3xtrUtwcBz0b6PFo9sLZkni" +
                     "3gzIicY0Svy7vSnmU+d+1EOBManqWzf545HFX0NL7A6bjpqmTwhYGnBJ8Zqgh9yC6e1yJ" +
                     "ql4IRE2yQS1f4JR1YfYvluuEZflXcvrLMhARHJWdwiCAKgaUaLQNOOVEyO5Un/4rVWsCK" +
-                    "YFAj/yaXIO2aSjlE1ze2j35ejQsYV6dJ+CIWK3/NX9r23Sar5OKZuqRBvxE1MbJT9kjSy" +
+                    "j35ejQsYV6dJ+CIWK3/NX9r23Sar5OKZuqRBvxE1MbJ+3kK7uZ1bGpNq8lANrGfJau32E" +
                     "L9YXGTHI772sI2VXfXPTfobxp9NYxNOcSIoeOQegFewUfwCVBgm2JjYJOeBDAHKwZZ5oQ" +
                     "GGTViLgz0qJ2bk0LRq3gA==";
 
