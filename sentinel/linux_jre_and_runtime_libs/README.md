@@ -1,0 +1,1 @@
+Copy these libraries to any location and then use `LD_LIBRARY_PATH` to locate them.

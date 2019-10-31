@@ -4,8 +4,8 @@ package com.azizunsal.blog.permissioningtoggles.enums;
  * @author azizunsal
  */
 public enum ApplicationFeature {
-    CAMERA("camera", 100),
-    VIDEO("video", 200);
+    CAMERA("camera", 1),
+    VIDEO("video", 2);
 
     private final String licenseString;
     private final int featureId;
