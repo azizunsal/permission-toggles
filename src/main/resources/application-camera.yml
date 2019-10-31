@@ -1,0 +1,9 @@
+camera:
+  max-count: 10
+  profile:
+    name: r
+  width: 1920
+  height: 1080
+  tracking:
+    skip: 1
+    partition: 3

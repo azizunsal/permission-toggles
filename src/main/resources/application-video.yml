@@ -1,0 +1,6 @@
+videos:
+  ffmpeg:
+    ffmpegPath: /usr/local/bin/ffmpeg
+    ffprobePath: /usr/local/bin/ffprobe
+  defaults:
+    fps: 30
